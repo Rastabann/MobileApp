@@ -7,7 +7,7 @@ import {
   FlatList,
   Text,
 } from "react-native";
-import firebase from "firebase";
+import firebase from "react-native-firebase";
 
 const ContactScreen = () => {
   const [name, setName] = useState("");

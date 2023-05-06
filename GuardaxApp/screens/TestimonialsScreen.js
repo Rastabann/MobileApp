@@ -7,7 +7,7 @@ import {
   Button,
   FlatList,
 } from "react-native";
-import firebase from "firebase";
+import firebase from "react-native-firebase";
 
 const TestimonialsScreen = () => {
   const [testimonials, setTestimonials] = useState([]);

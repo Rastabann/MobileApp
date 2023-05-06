@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { StyleSheet, View, Button } from "react-native";
 import MapView, { Marker } from "react-native-maps";
-import firebase from "firebase";
+import firebase from "react-native-firebase";
 
 const MapScreen = () => {
   const [markers, setMarkers] = useState([]);
