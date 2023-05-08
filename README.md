@@ -5,7 +5,7 @@ POUR TESTER L'APPLICATION
 1) Télécharger les dépendances : npm install
 
 2) Lancer le backend : 
-   ouvrir terminal
+   <br>ouvrir terminal<br/>
    cd server-side-project
    node test-server.js (vérifier si le port est correct)
    
