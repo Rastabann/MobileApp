@@ -4,13 +4,15 @@ POUR TESTER L'APPLICATION
 
 1) Télécharger les dépendances : npm install
 
-2) Lancer le backend : 
+2) Lancer le backend :
+
    <br>ouvrir terminal<br/>
-   cd server-side-project
-   node test-server.js (vérifier si le port est correct)
+   <br>cd server-side-project<br/>
+   <br>node test-server.js (vérifier si le port est correct)<br/>
    
 3) Lancer l'application : 
-   ouvrir terminal
-   cd .. puis cd my-app
-   npx expo start
-   scanner le qr code avec l'app expo go
+
+   <br>ouvrir terminal<br/>
+   <br>cd .. puis cd my-app<br/>
+   <br>npx expo start<br/>
+   <br>scanner le qr code avec l'app expo go<br/>
